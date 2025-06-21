@@ -1,3 +1,25 @@
+/*
+pxt.json
+{
+  "name": "scd40",
+  "description": "Sensirion SCD40 CO₂ sensor extension for micro:bit",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n-kri-ro/pxt-scd40"
+  },
+  "dependencies": {
+    "core": "*"
+  },
+  "supportedTargets": ["microbit"],
+  "files": [
+    "scd40.ts"
+  ],
+  "public": true
+}
+*/
+
 /**
  * SCD40 CO₂ Sensor driver for micro:bit
  */
